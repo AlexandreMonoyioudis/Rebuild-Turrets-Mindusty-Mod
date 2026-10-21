@@ -16,4 +16,5 @@
 
   // The minimum Mindustry game version required to run this mod
   minGameVersion: "146"
+  hidden: false
 }
