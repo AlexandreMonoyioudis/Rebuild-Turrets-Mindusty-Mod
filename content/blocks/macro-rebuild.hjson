@@ -15,7 +15,7 @@
   mineSpeed: .1f
 
 consumes: {
-  power: 120
+  power: 30
 }
 
   requirements: [
