@@ -1,0 +1,23 @@
+{
+  // The name displayed in the in-game mod list
+  displayName: "Rebuild Turrets"
+
+  // Internal unique identifier (use dashes, no spaces)
+  name: "Rebuild-Turrets"
+
+  // Your name or handle
+  author: "AlexandreMonoyioudis"
+
+  // A short description of what your mod adds to the game
+  description: """Rebuilding turrets that help build and rebuild your base.
+  
+  + 2x2 rebuild
+  + 6x6 macro rebuild
+  """
+
+  // The current version of your mod
+  version: "1.0"
+
+  // The minimum Mindustry game version required to run this mod
+  minGameVersion: "146"
+}
