@@ -9,11 +9,7 @@
   author: "AlexandreMonoyioudis"
 
   // A short description of what your mod adds to the game
-  description: """Rebuilding turrets that help build and rebuild your base.
-  
-  + 2x2 rebuild
-  + 6x6 macro rebuild
-  """
+  description: "Rebuilding turrets that help build and rebuild your base."
 
   // The current version of your mod
   version: "1.0"
