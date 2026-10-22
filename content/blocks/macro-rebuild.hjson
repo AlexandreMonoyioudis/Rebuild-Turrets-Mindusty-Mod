@@ -6,13 +6,11 @@
   
   health: 3000
   size: 6
-  reload: 10f
+  reload: 5f
   range: 300f
-  buildSpeed: 1f
+  buildSpeed: 2f
 	ammoUseEffect: none
-	targetInterval: 50
-  mineTier: 3
-  mineSpeed: .1f
+	targetInterval: 10
 
 consumes: {
   power: 30
@@ -26,8 +24,8 @@ consumes: {
     titanium/1000
   ]
   researchCost: [
-    copper/500
-    lead/500
+    copper/1000
+    lead/1000
     graphite/3000
     silicon/2000
     titanium/3000

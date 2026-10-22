@@ -11,8 +11,6 @@
   buildSpeed: .4f
 	ammoUseEffect: none
 	targetInterval: 100
-  mineTier: 3
-  mineSpeed: .1f
 
 consumes: {
   power: 10
@@ -28,5 +26,5 @@ consumes: {
     silicon/200
   ]
   category: "effect"
-  research: "duo"
+  research: "mender"
 }
