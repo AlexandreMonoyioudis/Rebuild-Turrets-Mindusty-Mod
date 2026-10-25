@@ -7,10 +7,10 @@
   health: 3000
   size: 6
   reload: 5f
-  range: 300f
-  buildSpeed: 2f
+  range: 500f
+  buildSpeed: 5f
 	ammoUseEffect: none
-	targetInterval: 10
+	targetInterval: 4
 
 consumes: {
   power: 30

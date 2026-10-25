@@ -10,7 +10,7 @@
   range: 100f
   buildSpeed: .4f
 	ammoUseEffect: none
-	targetInterval: 100
+	targetInterval: 5
 
 consumes: {
   power: 10
